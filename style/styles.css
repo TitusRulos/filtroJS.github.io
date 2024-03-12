@@ -1,0 +1,41 @@
+body {
+    background-image: url('https://www.paredro.com/wp-content/uploads/2016/06/DA-VINCI-01.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    max-width: 900px; 
+    text-align: center;
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+}
+
+.custom-container {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 50px;
+    max-width: 600px;
+    text-align: center;
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+
+}
+
+.custom-container {
+    background-color: #343a40;
+    border-radius: 20px;
+    color: #fff; 
+}
+
+#table {
+    max-height: 20px; 
+    overflow-y: auto; 
+}
